@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import Filter.Produto;
+
 public class Exemplo3Map {
     public static void main(String[] args) {
 // Lista de produtos
