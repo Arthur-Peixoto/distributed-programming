@@ -5,7 +5,7 @@ import java.net.*;
 public class EmissorSimples1 {
     public static void main(String[] args) throws IOException {
         int porta = 55554;
-        String grupo = "225.7.8.9";
+        String grupo = "224.0.0.239";
         /*
          * Criando o socket mas não vinculando-o ao grupo.
          * Serve apenas para enviar dados.

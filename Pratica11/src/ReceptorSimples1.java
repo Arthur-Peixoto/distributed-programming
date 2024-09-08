@@ -22,7 +22,7 @@ public class ReceptorSimples1 {
          * Forma atual:
          */
         InetAddress multicastIP =
-                InetAddress.getByName("225.7.8.9");
+                InetAddress.getByName("225.17.8.9");
         InetSocketAddress grupo =
                 new InetSocketAddress(multicastIP, 55555);
         NetworkInterface interfaceRede =
